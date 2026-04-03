@@ -1,6 +1,6 @@
-# awesome-dashboard
+# Awesome Dashboard
 
-A full-stack web application built for demonstration
+A full-stack web application.
 
 ## Getting Started
 
@@ -10,9 +10,6 @@ npm start
 ```
 
 ## Features
-- Feature 1: User authentication
-- Feature 2: Real-time updates
-- Feature 3: Responsive design
-
-## License
-MIT
+- Real-time dashboard
+- User authentication
+- Responsive design
