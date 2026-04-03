@@ -1,8 +1,6 @@
-// Main application component
+// Main App component
 import React from 'react';
-
 function App() {
-  return <div>Hello from awesome-dashboard</div>;
+  return <div className="dashboard">Welcome</div>;
 }
-
 export default App;
